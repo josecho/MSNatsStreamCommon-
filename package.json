@@ -2,8 +2,8 @@
   "name": "@jlvbcooptickets/common",
   "version": "1.0.9",
   "description": "",
-  "main": "./build/index.js",
-  "types": "./build/index.ts",
+  "main": "/build/index.js",
+  "types": "/build/index.ts",
   "files": [
     "build/**/*"
   ],
